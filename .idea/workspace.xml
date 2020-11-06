@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9015493-9cb5-4941-9dbe-fc8455546813" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tc7OH2tMgHE9ZRJj8aviiiApAt" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/Need" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\14622\Desktop\新建文件夹 (2)\files\Need" />
+      <recent name="Q:\cheng_xu_ku\web\index\files\index" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/index/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9015493-9cb5-4941-9dbe-fc8455546813" name="默认的" comment="" />
+      <created>1573747495633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573747495633</updated>
+      <workItem from="1573747496951" duration="395000" />
+      <workItem from="1573747904650" duration="12243000" />
+      <workItem from="1578636363700" duration="860000" />
+      <workItem from="1578637416579" duration="1797000" />
+      <workItem from="1578639264699" duration="1797000" />
+      <workItem from="1578641082469" duration="1795000" />
+      <workItem from="1578642900605" duration="1795000" />
+      <workItem from="1578644756621" duration="1128000" />
+      <workItem from="1578646660666" duration="167000" />
+      <workItem from="1578721044760" duration="735000" />
+      <workItem from="1578735796996" duration="1792000" />
+      <workItem from="1578737608697" duration="1795000" />
+      <workItem from="1578739508279" duration="1794000" />
+      <workItem from="1578741315377" duration="784000" />
+      <workItem from="1579235151903" duration="210000" />
+      <workItem from="1579235417702" duration="1793000" />
+      <workItem from="1579237229166" duration="1069000" />
+      <workItem from="1579253045170" duration="329000" />
+      <workItem from="1579253706313" duration="249000" />
+      <workItem from="1592265053694" duration="284000" />
+      <workItem from="1592265338422" duration="1092000" />
+      <workItem from="1592266452453" duration="481000" />
+      <workItem from="1592268181772" duration="1076000" />
+      <workItem from="1592275653705" duration="1029000" />
+      <workItem from="1592277051473" duration="12000" />
+      <workItem from="1592277784093" duration="1870000" />
+      <workItem from="1592280514067" duration="1728000" />
+      <workItem from="1592282753920" duration="1366000" />
+      <workItem from="1592371118148" duration="87000" />
+      <workItem from="1592822225436" duration="1000" />
+      <workItem from="1592822246945" duration="160000" />
+      <workItem from="1601085014130" duration="30834000" />
+      <workItem from="1601137460955" duration="43000" />
+      <workItem from="1601175141861" duration="10791000" />
+      <workItem from="1603013732590" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

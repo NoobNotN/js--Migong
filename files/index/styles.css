@@ -1,0 +1,115 @@
+﻿html{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+#MiGong{
+    position: fixed;
+    margin-left: 5vw;
+    box-sizing:border-box;
+    display: flex;
+    flex-flow: column;
+    width: 70.9vw;
+    height: 70.9vw;
+    color: grey;
+    border: 4vw solid black;
+}
+.tabC{
+    flex: 1;
+    display: flex;
+    flex-flow: row;
+    margin: 0;
+    padding: 0;
+}
+.tabMi{
+    box-sizing:border-box;
+    border: 1px solid black;
+    flex: 1;
+    margin: 0;
+    padding: 0;
+}
+.button{
+    display: block;
+    position: fixed;
+    left:80vw;
+    top: 5vw;
+    height: 6vw;
+    width: 10vw;
+}
+#begin{
+    top: 15vw;
+}
+#Suiji{
+    top: 25vw;
+}
+#Shuaxin{
+    top: 35vw;
+}
+#Bcover{
+    display: none;
+    z-index: 100;
+    position: fixed;
+    margin-left: 5vw;
+    width: 71vw;
+    height: 71vw;
+}
+#goner{
+    left: 0;
+    top: 0;
+    display: block;
+    position: fixed;
+    width: 4vw;
+    height: 4vw;
+    z-index: 100;
+}
+#human{
+    margin-left: 10.5vw;
+    margin-top: 5.2vw;
+    display: block;
+    width: 4vw;
+    height: 4vw;
+    border-radius: 50%;
+    background: #009dda;
+}
+.gowhere{
+    margin-top: -4.5vw;
+    font-size: 4vw;
+    font-width: 1vw;
+}
+#outer{
+    line-height: 4vw;
+    background: white;
+    display: block;
+    position: fixed;
+    width: 8vw;
+    height: 4vw;
+    top: 63vw;
+    left: 72vw;
+    font-size: 8vw;
+    font-width: 15vw;
+    color: greenyellow;
+}
+#text{
+    position: fixed;
+    top: 72vw;
+    left: 10vw;
+    font-size: 3vw;
+}
+#Set{
+    position: fixed;
+    top: 80vw;
+    display: block;
+    left: 50vw;
+    width: 45vw;
+    height: 20vw;
+    background: lightgrey;
+}
+#set1{
+    height: 100%;width: 20%;line-height: 10vw;padding-left: 2vw;float: left;margin: 0
+}
+#set2{
+    height: 100%;width: 45%;line-height: 10vw;float: left;margin:0;
+}
+#setr{
+    height: 100%;width: 30%;line-height: 10vw;float: right;margin:0;
+}
