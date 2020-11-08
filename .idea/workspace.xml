@@ -22,11 +22,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Tc7OH2tMgHE9ZRJj8aviiiApAt" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/files/Need" />
+    <property name="last_opened_file_path" value="Q:/bian_yi_qi/phpstudy_pro/WWW/新建文件夹" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
   </component>
@@ -103,6 +107,9 @@
       <workItem from="1601137460955" duration="43000" />
       <workItem from="1601175141861" duration="10791000" />
       <workItem from="1603013732590" duration="110000" />
+      <workItem from="1604654967637" duration="17000" />
+      <workItem from="1604655021140" duration="10000" />
+      <workItem from="1604813600042" duration="758000" />
     </task>
     <servers />
   </component>

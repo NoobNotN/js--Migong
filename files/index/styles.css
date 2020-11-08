@@ -4,15 +4,15 @@
     padding: 0;
 }
 #MiGong{
-    position: fixed;
     margin-left: 5vw;
     box-sizing:border-box;
     display: flex;
     flex-flow: column;
-    width: 70.9vw;
-    height: 70.9vw;
+    width: 720px;
+    height: 720px;
     color: grey;
-    border: 4vw solid black;
+    border: 10px solid black;
+    float: left;
 }
 .tabC{
     flex: 1;
@@ -28,22 +28,14 @@
     margin: 0;
     padding: 0;
 }
+#header{
+    width: 100vw;
+    height: 50px;
+    display: flex;
+}
 .button{
     display: block;
-    position: fixed;
-    left:80vw;
-    top: 5vw;
-    height: 6vw;
-    width: 10vw;
-}
-#begin{
-    top: 15vw;
-}
-#Suiji{
-    top: 25vw;
-}
-#Shuaxin{
-    top: 35vw;
+    flex:1;
 }
 #Bcover{
     display: none;
@@ -54,8 +46,8 @@
     height: 71vw;
 }
 #goner{
-    left: 0;
-    top: 0;
+    left: 7vw;
+    top: 80px;
     display: block;
     position: fixed;
     width: 4vw;
@@ -63,8 +55,9 @@
     z-index: 100;
 }
 #human{
-    margin-left: 10.5vw;
-    margin-top: 5.2vw;
+    /*margin-left: 10.5vw;*/
+    /*margin-top: 5.2vw;*/
+
     display: block;
     width: 4vw;
     height: 4vw;
@@ -96,20 +89,18 @@
     font-size: 3vw;
 }
 #Set{
-    position: fixed;
-    top: 80vw;
+    float: right;
     display: block;
-    left: 50vw;
-    width: 45vw;
-    height: 20vw;
+    width: 450px;
+    height: 300px;
     background: lightgrey;
 }
 #set1{
-    height: 100%;width: 20%;line-height: 10vw;padding-left: 2vw;float: left;margin: 0
+    height: 100%;width: 20%;line-height: 150px;padding-left: 2vw;float: left;margin: 0
 }
 #set2{
-    height: 100%;width: 45%;line-height: 10vw;float: left;margin:0;
+    height: 100%;width: 40%;line-height: 150px;float: left;margin:0;
 }
 #setr{
-    height: 100%;width: 30%;line-height: 10vw;float: right;margin:0;
+    height: 100%;width: 30%;line-height: 150px;float: right;margin:0;
 }
